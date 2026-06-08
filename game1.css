@@ -1,0 +1,14 @@
+#grid {
+  height:600px;
+  width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#grid img {
+  width: 150px;   
+  height: 150px;  
+  object-fit: cover;
+  margin: 2px;    
+  cursor: pointer; 
+}
